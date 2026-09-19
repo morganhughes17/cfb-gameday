@@ -1,0 +1,192 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#120018"/>
+      <stop offset="55%" stop-color="#070014"/>
+      <stop offset="100%" stop-color="#001428"/>
+    </linearGradient>
+    <style>
+      .t{font-family:Arial Black,Impact,Helvetica,Arial,sans-serif}
+      .s{font-family:Arial,Helvetica,sans-serif}
+    </style>
+  </defs>
+  <rect width="1920" height="1180" fill="url(#bg)"/>
+  <rect width="1920" height="8" fill="#FF2EC8"/>
+  <rect y="8" width="1920" height="4" fill="#00F5FF"/>
+  <rect y="12" width="1920" height="108" fill="#1A0030"/>
+  <polygon points="0,12 28,12 8,120 0,120" fill="#FF2EC8"/>
+  <polygon points="1920,12 1892,12 1912,120 1920,120" fill="#FF5A1F"/>
+  <text x="36" y="46" class="t" font-size="26" fill="#FF2EC8">WEEK 3  ·  SATURDAY SEP 19, 2026  ·  4:56 PM MDT</text>
+  <text x="36" y="92" class="t" font-size="46" fill="#FFFFFF">COLLEGE FOOTBALL GAMEDAY</text>
+  <text x="36" y="114" class="s" font-size="18" fill="#00F5FF">STATEMENT WINS  ·  CRUSHING LOSSES  ·  LIVE CHAOS</text>
+  <rect x="1686" y="30" width="206" height="32" rx="6" fill="#FF2EC8"/>
+  <text x="1789" y="52" class="t" font-size="15" fill="#FFFFFF" text-anchor="middle">AS OF 4:56 PM MDT</text>
+
+  <rect x="24" y="138" width="1096" height="48" rx="10" fill="#140028" stroke="#FF2EC8" stroke-width="3"/>
+  <rect x="36" y="150" width="6" height="24" fill="#FF2EC8"/>
+  <text x="52" y="170" class="t" font-size="24" fill="#FFFFFF">GAME-BREAKERS  —  FINALS</text>
+
+  <rect x="24" y="196" width="1096" height="150" rx="16" fill="#240018" stroke="#FF2EC8" stroke-width="3"/>
+  <rect x="24" y="212" width="8" height="118" fill="#FF2EC8"/>
+  <rect x="48" y="212" width="210" height="28" rx="6" fill="#FF2EC8"/>
+  <text x="153" y="232" class="t" font-size="14" fill="#120010" text-anchor="middle">PLAY OF THE DAY</text>
+  <text x="48" y="274" class="t" font-size="40" fill="#FF2EC8">VANDERBILT  35</text>
+  <text x="48" y="318" class="t" font-size="32" fill="#FFFFFF">NC STATE    31</text>
+  <text x="450" y="250" class="s" font-size="16" fill="#FFFFFF">Last-second fumble TD. Pack led 31-28 with 6 seconds left.</text>
+  <text x="450" y="274" class="s" font-size="16" fill="#FFFFFF">Tried to kneel it out. Capers strip, Daniels recovers. Vandy 3-0.</text>
+  <text x="450" y="318" class="t" font-size="16" fill="#FF5A1F">NC STATE WIN PROB WAS 99.9%  ·  GUT-PUNCH LOSS</text>
+
+  <g class="t" font-size="22">
+    <rect x="24" y="360" width="542" height="86" rx="12" fill="#2A0038" stroke="#FF5A1F" stroke-width="2"/>
+    <text x="40" y="392" fill="#FFFFFF">#21 OREGON</text>
+    <text x="540" y="396" fill="#FF5A1F" text-anchor="end" font-size="32">84</text>
+    <text x="40" y="420" fill="#B8C0D8" font-size="18">PORTLAND ST</text>
+    <text x="540" y="424" fill="#8E9BB8" text-anchor="end" font-size="22">0</text>
+    <text x="40" y="438" class="s" font-size="12" fill="#FF5A1F">NUKE JOB — 84-0 SHUTOUT</text>
+
+    <rect x="578" y="360" width="542" height="86" rx="12" fill="#2A0038" stroke="#FF5A1F" stroke-width="2"/>
+    <text x="594" y="392" fill="#FFFFFF">#6 OHIO STATE</text>
+    <text x="1094" y="396" fill="#FF5A1F" text-anchor="end" font-size="32">59</text>
+    <text x="594" y="420" fill="#B8C0D8" font-size="18">KENT STATE</text>
+    <text x="1094" y="424" fill="#8E9BB8" text-anchor="end" font-size="22">3</text>
+    <text x="594" y="438" class="s" font-size="12" fill="#FF5A1F">SMITH SETS OSU CAREER REC YDS</text>
+
+    <rect x="24" y="456" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="40" y="488" fill="#FFFFFF">#14 PENN STATE</text>
+    <text x="540" y="492" fill="#FFE600" text-anchor="end" font-size="32">55</text>
+    <text x="40" y="516" fill="#B8C0D8" font-size="18">BUFFALO</text>
+    <text x="540" y="520" fill="#8E9BB8" text-anchor="end" font-size="22">13</text>
+    <text x="40" y="534" class="s" font-size="12" fill="#00F5FF">CAMPBELL ERA LOOKS CFP-READY</text>
+
+    <rect x="578" y="456" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="594" y="488" fill="#FFFFFF">#2 GEORGIA</text>
+    <text x="1094" y="492" fill="#FFE600" text-anchor="end" font-size="32">45</text>
+    <text x="594" y="516" fill="#B8C0D8" font-size="18">ARKANSAS</text>
+    <text x="1094" y="520" fill="#8E9BB8" text-anchor="end" font-size="22">17</text>
+    <text x="594" y="534" class="s" font-size="12" fill="#00F5FF">DAWGS ROLL IN SEC OPENER</text>
+
+    <rect x="24" y="552" width="542" height="86" rx="12" fill="#2A0038" stroke="#FF5A1F" stroke-width="2"/>
+    <text x="40" y="584" fill="#FFFFFF">#13 TEXAS TECH</text>
+    <text x="540" y="588" fill="#FF5A1F" text-anchor="end" font-size="32">28</text>
+    <text x="40" y="612" fill="#B8C0D8" font-size="18">#22 HOUSTON</text>
+    <text x="540" y="616" fill="#8E9BB8" text-anchor="end" font-size="22">26</text>
+    <text x="40" y="630" class="s" font-size="12" fill="#FF5A1F">RANKED SLUGFEST — TECH SURVIVES</text>
+
+    <rect x="578" y="552" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="594" y="584" fill="#FFFFFF">#5 MIAMI</text>
+    <text x="1094" y="588" fill="#FFE600" text-anchor="end" font-size="32">33</text>
+    <text x="594" y="612" fill="#B8C0D8" font-size="18">WAKE FOREST</text>
+    <text x="1094" y="616" fill="#8E9BB8" text-anchor="end" font-size="22">20</text>
+    <text x="594" y="630" class="s" font-size="12" fill="#00F5FF">HURRICANES STAY UNBEATEN</text>
+
+    <rect x="24" y="648" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="40" y="680" fill="#FFFFFF">CLEMSON</text>
+    <text x="540" y="684" fill="#FFE600" text-anchor="end" font-size="32">28</text>
+    <text x="40" y="708" fill="#B8C0D8" font-size="18">NORTH CAROLINA</text>
+    <text x="540" y="712" fill="#8E9BB8" text-anchor="end" font-size="22">20</text>
+    <text x="40" y="726" class="s" font-size="12" fill="#00F5FF">TIGERS RALLY AFTER 2.5-HR DELAY</text>
+
+    <rect x="578" y="648" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="594" y="680" fill="#FFFFFF">IOWA STATE</text>
+    <text x="1094" y="684" fill="#FFE600" text-anchor="end" font-size="32">55</text>
+    <text x="594" y="708" fill="#B8C0D8" font-size="18">BOWLING GREEN</text>
+    <text x="1094" y="712" fill="#8E9BB8" text-anchor="end" font-size="22">7</text>
+    <text x="594" y="726" class="s" font-size="12" fill="#00F5FF">CYCLONES POUR IT ON</text>
+
+    <rect x="24" y="744" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="40" y="776" fill="#FFFFFF">WISCONSIN</text>
+    <text x="540" y="780" fill="#FFE600" text-anchor="end" font-size="32">54</text>
+    <text x="40" y="804" fill="#B8C0D8" font-size="18">E. MICHIGAN</text>
+    <text x="540" y="808" fill="#8E9BB8" text-anchor="end" font-size="22">10</text>
+    <text x="40" y="822" class="s" font-size="12" fill="#00F5FF">BADGERS CRUISE AT HOME</text>
+
+    <rect x="578" y="744" width="542" height="86" rx="12" fill="#0E1A36" stroke="#00F5FF" stroke-width="2"/>
+    <text x="594" y="776" fill="#FFFFFF">GEORGIA TECH</text>
+    <text x="1094" y="780" fill="#FFE600" text-anchor="end" font-size="32">44</text>
+    <text x="594" y="804" fill="#B8C0D8" font-size="18">MERCER</text>
+    <text x="1094" y="808" fill="#8E9BB8" text-anchor="end" font-size="22">11</text>
+    <text x="594" y="822" class="s" font-size="12" fill="#00F5FF">JACKETS POUND THE FCS FOE</text>
+  </g>
+
+  <rect x="1140" y="138" width="756" height="48" rx="10" fill="#140028" stroke="#FF2EC8" stroke-width="3"/>
+  <rect x="1152" y="148" width="74" height="28" rx="6" fill="#FF2EC8"/>
+  <text x="1189" y="168" class="t" font-size="16" fill="#FFFFFF" text-anchor="middle">LIVE</text>
+  <text x="1240" y="170" class="t" font-size="24" fill="#FFFFFF">RIGHT NOW</text>
+
+  <rect x="1140" y="196" width="756" height="78" rx="10" fill="#2A001C" stroke="#FF2EC8" stroke-width="2.5"/>
+  <text x="1154" y="222" class="t" font-size="20" fill="#FFFFFF">KENTUCKY</text>
+  <text x="1688" y="224" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">31</text>
+  <text x="1154" y="246" class="t" font-size="20" fill="#FFFFFF">#9 TEXAS A&amp;M</text>
+  <text x="1688" y="248" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">21</text>
+  <text x="1154" y="266" class="s" font-size="12" fill="#FF5A1F">UPSET ALERT — CATS LEAD IN THE 4TH AT KYLE</text>
+  <rect x="1728" y="204" width="156" height="20" rx="4" fill="#FF2EC8"/>
+  <text x="1806" y="219" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">4TH · 3:45</text>
+
+  <rect x="1140" y="282" width="756" height="78" rx="10" fill="#0E1A36" stroke="#00F5FF" stroke-width="2.5"/>
+  <text x="1154" y="308" class="t" font-size="20" fill="#FFFFFF">#16 SMU</text>
+  <text x="1688" y="310" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">31</text>
+  <text x="1154" y="332" class="t" font-size="20" fill="#FFFFFF">#23 LOUISVILLE</text>
+  <text x="1688" y="334" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">35</text>
+  <text x="1154" y="352" class="s" font-size="12" fill="#B8C0D8">TOP-25 ACC DOGFIGHT</text>
+  <rect x="1728" y="290" width="156" height="20" rx="4" fill="#16305A"/>
+  <text x="1806" y="305" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">4TH · 7:20</text>
+
+  <rect x="1140" y="368" width="756" height="78" rx="10" fill="#002838" stroke="#00F5FF" stroke-width="2.5"/>
+  <text x="1154" y="394" class="t" font-size="20" fill="#FFFFFF">UTAH STATE</text>
+  <text x="1688" y="396" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">0</text>
+  <text x="1154" y="418" class="t" font-size="20" fill="#FFFFFF">#17 UTAH</text>
+  <text x="1688" y="420" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">33</text>
+  <text x="1154" y="438" class="s" font-size="12" fill="#00F5FF">UTES CRUISING — SLC HOLY WAR</text>
+  <rect x="1728" y="376" width="156" height="20" rx="4" fill="#00F5FF"/>
+  <text x="1806" y="391" class="t" font-size="12" fill="#050018" text-anchor="middle">4TH · 7:48</text>
+
+  <rect x="1140" y="454" width="756" height="78" rx="10" fill="#0E1A36" stroke="#00F5FF" stroke-width="2.5"/>
+  <text x="1154" y="480" class="t" font-size="20" fill="#FFFFFF">UTEP</text>
+  <text x="1688" y="482" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">17</text>
+  <text x="1154" y="504" class="t" font-size="20" fill="#FFFFFF">#19 MICHIGAN</text>
+  <text x="1688" y="506" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">52</text>
+  <text x="1154" y="524" class="s" font-size="12" fill="#B8C0D8">WOLVERINES PULLING AWAY</text>
+  <rect x="1728" y="462" width="156" height="20" rx="4" fill="#16305A"/>
+  <text x="1806" y="477" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">4TH · 2:00</text>
+
+  <rect x="1140" y="540" width="756" height="78" rx="10" fill="#0E1A36" stroke="#00F5FF" stroke-width="2.5"/>
+  <text x="1154" y="566" class="t" font-size="20" fill="#FFFFFF">#12 USC</text>
+  <text x="1688" y="568" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">35</text>
+  <text x="1154" y="590" class="t" font-size="20" fill="#FFFFFF">RUTGERS</text>
+  <text x="1688" y="592" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">28</text>
+  <text x="1154" y="610" class="s" font-size="12" fill="#B8C0D8">TROJANS HOLDING IN THE 4TH</text>
+  <rect x="1728" y="548" width="156" height="20" rx="4" fill="#16305A"/>
+  <text x="1806" y="563" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">4TH · 10:53</text>
+
+  <rect x="1140" y="626" width="756" height="78" rx="10" fill="#0E1A36" stroke="#00F5FF" stroke-width="2.5"/>
+  <text x="1154" y="652" class="t" font-size="20" fill="#FFFFFF">W. KENTUCKY</text>
+  <text x="1688" y="654" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">0</text>
+  <text x="1154" y="676" class="t" font-size="20" fill="#FFFFFF">#4 INDIANA</text>
+  <text x="1688" y="678" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">31</text>
+  <text x="1154" y="696" class="s" font-size="12" fill="#B8C0D8">HOOSIERS ROLLING</text>
+  <rect x="1728" y="634" width="156" height="20" rx="4" fill="#16305A"/>
+  <text x="1806" y="649" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">4TH · 11:06</text>
+
+  <rect x="1140" y="712" width="756" height="78" rx="10" fill="#0E1A36" stroke="#00F5FF" stroke-width="2.5"/>
+  <text x="1154" y="738" class="t" font-size="20" fill="#FFFFFF">N. IOWA</text>
+  <text x="1688" y="740" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">0</text>
+  <text x="1154" y="762" class="t" font-size="20" fill="#FFFFFF">#18 IOWA</text>
+  <text x="1688" y="764" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">49</text>
+  <text x="1154" y="782" class="s" font-size="12" fill="#B8C0D8">HAWKEYES POUNDING FCS</text>
+  <rect x="1728" y="720" width="156" height="20" rx="4" fill="#16305A"/>
+  <text x="1806" y="735" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">END 3RD</text>
+
+  <rect x="1140" y="798" width="756" height="78" rx="10" fill="#2A001C" stroke="#FF2EC8" stroke-width="2.5"/>
+  <text x="1154" y="824" class="t" font-size="20" fill="#FFFFFF">FLORIDA ST</text>
+  <text x="1688" y="826" class="t" font-size="26" fill="#FF5A1F" text-anchor="end">21</text>
+  <text x="1154" y="848" class="t" font-size="20" fill="#FFFFFF">#10 ALABAMA</text>
+  <text x="1688" y="850" class="t" font-size="26" fill="#8E9BB8" text-anchor="end">13</text>
+  <text x="1154" y="868" class="s" font-size="12" fill="#FF5A1F">Noles lead — weather delay in Tuscaloosa</text>
+  <rect x="1728" y="806" width="156" height="20" rx="4" fill="#FF2EC8"/>
+  <text x="1806" y="821" class="t" font-size="12" fill="#FFFFFF" text-anchor="middle">DELAYED</text>
+
+  <rect y="1094" width="1920" height="86" fill="#080010"/>
+  <rect y="1094" width="1920" height="5" fill="#FF2EC8"/>
+  <text x="28" y="1124" class="t" font-size="24" fill="#FF2EC8">TONIGHT</text>
+  <text x="28" y="1156" class="s" font-size="18" fill="#FFFFFF">#11 BYU @ CSU  5:30 PM MDT CBS   ·   #7 LSU @ #8 OLE MISS  ABC   ·   MICH ST @ #3 NOTRE DAME  NBC   ·   UTSA @ #1 TEXAS   ·   FLORIDA @ AUBURN</text>
+</svg>
