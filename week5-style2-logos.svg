@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <rect width="1920" height="1080" fill="#05070C"/>
+  <text x="960" y="48" text-anchor="middle" font-family="Arial Narrow,Arial,sans-serif" font-size="16" letter-spacing="8" fill="#C9A227">SELECTION SHOW WALL</text>
+  <text x="960" y="100" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="42" letter-spacing="4" fill="#F4F1E8">PROJECTED AP TOP 20</text>
+  <text x="960" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#7A8190">SAT SEP 26 2026  10:18 PM MDT  ·  LOGOS IN BOXES  ·  OFFICIAL POLL SUN NOON MDT</text>
+  <g transform="translate(50,160)">
+    <rect width="880" height="80" rx="10" fill="#0C1018" stroke="#FF6A00" stroke-width="3"/>
+    <rect x="8" y="8" width="64" height="64" rx="8" fill="#FFFFFF"/>
+    <image href="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png" xlink:href="https://a.espncdn.com/i/teamlogos/ncaa/500/251.png" x="10" y="10" width="60" height="60" preserveAspectRatio="xMidYMid meet"/>
+    <text x="88" y="54" font-family="Arial Black,Arial,sans-serif" font-size="36" fill="#FF6A00">01</text>
+    <text x="168" y="38" font-family="Arial Narrow,Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="2" fill="#F4F1E8">TEXAS</text>
+    <text x="168" y="62" font-family="Arial,sans-serif" font-size="15" fill="#8B93A0">4-0</text>
+    <rect x="730" y="24" width="130" height="32" rx="16" fill="#07090E" stroke="#00F5FF" stroke-width="2"/>
+    <text x="795" y="46" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="800" fill="#00F5FF">HELD</text>
+  </g>
+  <g transform="translate(50,244)">
+    <rect width="880" height="80" rx="10" fill="#0C1018" stroke="#BA0C2F" stroke-width="3"/>
+    <rect x="8" y="8" width="64" height="64" rx="8" fill="#FFFFFF"/>
+    <image href="https://a.espncdn.com/i/teamlogos/ncaa/500/61.png" xlink:href="https://a.espncdn.com/i/teamlogos/ncaa/500/61.png" x="10" y="10" width="60" height="60" preserveAspectRatio="xMidYMid meet"/>
+    <text x="88" y="54" font-family="Arial Black,Arial,sans-serif" font-size="36" fill="#BA0C2F">02</text>
+    <text x="168" y="38" font-family="Arial Narrow,Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="2" fill="#F4F1E8">GEORGIA</text>
+    <text x="168" y="62" font-family="Arial,sans-serif" font-size="15" fill="#8B93A0">4-0</text>
+    <rect x="730" y="24" width="130" height="32" rx="16" fill="#07090E" stroke="#00F5FF" stroke-width="2"/>
+    <text x="795" y="46" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="800" fill="#00F5FF">HELD</text>
+  </g>
+</svg>
