@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <radialGradient id="spot" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#1A2230"/>
+      <stop offset="100%" stop-color="#050608"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#spot)"/>
+  <text x="960" y="52" text-anchor="middle" font-family="Arial Narrow,Arial,sans-serif" font-size="16" letter-spacing="8" fill="#C9A227">THE SELECTION SHOW</text>
+  <text x="960" y="108" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-size="48" letter-spacing="6" fill="#F4F1E8">PROJECTED AP TOP 20</text>
+  <line x1="760" y1="124" x2="1160" y2="124" stroke="#C9A227" stroke-width="2"/>
+  <text x="960" y="150" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#7A8190">SAT SEP 26 2026  ·  10:15 PM MDT  ·  OFFICIAL SUNDAY NOON MDT</text>
+</svg>
